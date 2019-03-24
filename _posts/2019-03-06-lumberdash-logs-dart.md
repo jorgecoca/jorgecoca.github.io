@@ -3,6 +3,7 @@ layout: post
 title: "Announcing lumberdash: capture logs in Dart and extend its API with custom plugins"
 description: "Capture logs in Dart and extend its API with custom plugins"
 tags: [dart, flutter, logs, simple api, plugins, sentry]
+comments: true
 ---
 
 ![lumberdash icon](https://raw.githubusercontent.com/jorgecoca/lumberdash/master/art/lumberdash.png)
